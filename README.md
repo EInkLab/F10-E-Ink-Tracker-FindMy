@@ -4,6 +4,14 @@
 
 ---
 
+## 📧 Contact
+
+**Email:** sales@icbbuy.com
+
+---
+
+---
+
 ## 📦 Product Overview
 
 The **F10 E-Ink Display Tag** is a smart Bluetooth photo keychain featuring advanced electronic ink screen technology. It displays your most precious photos while supporting the Apple Find My network, ensuring your important items are never lost.
