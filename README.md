@@ -10,6 +10,17 @@
 
 ---
 
+## 🖼️ Product Gallery
+
+| | | |
+|:---:|:---:|:---:|
+| ![F10-001](images/001.png) | ![F10-002](images/002.png) | ![F10-003](images/003.png) |
+| **001** | **002** | **003** |
+| ![F10-004](images/004.png) | ![F10-005](images/005.png) | ![F10-006](images/006.png) |
+| **004** | **005** | **006** |
+| ![F10-007](images/007.png) | ![F10-008](images/008.png) | ![F10-009](images/009.png) |
+| **007** | **008** | **009** |
+
 ---
 
 ## 📦 Product Overview
@@ -169,7 +180,7 @@ Contact info for lost luggage recovery + Apple Find My tracking.
 ## 🛠️ Troubleshooting
 
 | Issue | Solution |
-|-------|---------|
+|-------|----------|
 | Won't power on | Check battery installation; try a new battery; clean battery contacts |
 | Bluetooth won't connect | Enable Bluetooth; stay within 10m; restart both devices |
 | Image won't upload | Verify Bluetooth is active; try a simpler image; check format (JPG/PNG) |
